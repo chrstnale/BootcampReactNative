@@ -48,7 +48,7 @@ for(i=1; i<=7; i++){
 }
 
 console.log("\n");
-// SOAL NO. 4
+// SOAL NO. 5
 
 for(i=1; i<=8; i++){
     result = "";
