@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View, ScrollView } from 'react-native';
-import Component from './Tugas/Tugas13/AboutScreen';
+import Component from './Tugas/Tugas14/App';
 
 export default function App() {
   return (
